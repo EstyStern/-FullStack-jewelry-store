@@ -1,0 +1,42 @@
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\p\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\p\DAL\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\חנוכה-פרוייקט Full\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\חנוכה-פרוייקט Full\Server\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\Server\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

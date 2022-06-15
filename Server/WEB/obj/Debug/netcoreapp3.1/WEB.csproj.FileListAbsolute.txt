@@ -1,0 +1,207 @@
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\appsettings.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.exe
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.deps.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.dev.json
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.pdb
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csprojAssemblyReference.cache
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfoInputs.cache
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfo.cs
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.RazorTargetAssemblyInfo.cache
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.Manifest.cache
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.xml
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.dll
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.pdb
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.genruntimeconfig.cache
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\BLL.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\DAL.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CopyComplete
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CoreCompileInputs.cache
+F:\p\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.MvcApplicationPartsAssemblyInfo.cache
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\p\DAL\WEB\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\appsettings.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.exe
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.deps.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.dev.json
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\WEB.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.MvcApplicationPartsAssemblyInfo.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.RazorTargetAssemblyInfo.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CopyComplete
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.Manifest.cache
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.xml
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.dll
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.pdb
+F:\חנוכה-פרוייקט Full\DAL\WEB\obj\Debug\netcoreapp3.1\WEB.genruntimeconfig.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\appsettings.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.exe
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.deps.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.runtimeconfig.dev.json
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\WEB.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\BLL.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\bin\Debug\netcoreapp3.1\Entities_DTO.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.MvcApplicationPartsAssemblyInfo.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.RazorTargetAssemblyInfo.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.csproj.CopyComplete
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.Manifest.cache
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\staticwebassets\WEB.StaticWebAssets.xml
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.dll
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.pdb
+F:\חנוכה-פרוייקט Full\Server\WEB\obj\Debug\netcoreapp3.1\WEB.genruntimeconfig.cache

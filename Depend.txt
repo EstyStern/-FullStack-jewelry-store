@@ -1,0 +1,6 @@
+react-redux
+redux
+axios
+route
+react-router
+react-router-dom

@@ -1,0 +1,35 @@
+F:\p\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\p\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\p\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\p\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\p\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\p\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\חנוכה-פרוייקט Full\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\חנוכה-פרוייקט Full\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\חנוכה-פרוייקט Full\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\חנוכה-פרוייקט Full\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\חנוכה-פרוייקט Full\Server\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\חנוכה-פרוייקט Full\Server\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\חנוכה-פרוייקט Full\Server\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\חנוכה-פרוייקט Full\Server\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\Server\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\חנוכה-פרוייקט Full\Server\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

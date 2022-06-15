@@ -1,0 +1,12 @@
+F:\p\DAL\DTO-entities\bin\Debug\netcoreapp3.1\DTO-entities.deps.json
+F:\p\DAL\DTO-entities\bin\Debug\netcoreapp3.1\DTO-entities.dll
+F:\p\DAL\DTO-entities\bin\Debug\netcoreapp3.1\DAL.dll
+F:\p\DAL\DTO-entities\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.AssemblyInfoInputs.cache
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.AssemblyInfo.cs
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.csproj.CopyComplete
+F:\p\DAL\DTO-entities\bin\Debug\netcoreapp3.1\DTO-entities.pdb
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.csproj.CoreCompileInputs.cache
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.dll
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.pdb
+F:\p\DAL\DTO-entities\obj\Debug\netcoreapp3.1\DTO-entities.csprojAssemblyReference.cache
